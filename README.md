@@ -31,8 +31,10 @@ A fully coded, professional-grade scientific calculator built with **C# and Wind
 > No external dependencies — works out of the box on any .NET-enabled Windows machine.
 
 ---
+## ✨ Author
 
-## 📦 Build as `.exe`
-
-1. Click **Build > Build Solution**
-2. Go to:
+> 💡 **Salmane Saadi**  
+> 👨‍💻 Full-stack C# / WinForms Developer  
+> 🛡️ Cybersecurity & Malware Analysis Enthusiast  
+> 📧 [saadisalman849@gmail.com](mailto:saadisalman849@gmail.com)  
+> 🌍 Based in Turkey & Morocco
